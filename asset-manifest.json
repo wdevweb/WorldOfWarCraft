@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.e67d126c.css",
-    "main.js": "./static/js/main.914db1cd.js",
+    "main.css": "./static/css/main.5df607fa.css",
+    "main.js": "./static/js/main.42a5d0db.js",
     "static/media/elf.png": "./static/media/elf.086f0cb3d7aaf7d89687.png",
     "static/media/tauren.png": "./static/media/tauren.6d6275bd2a74087113a5.png",
+    "static/media/gnome.png": "./static/media/gnome.35cce233b4dab2a91bcc.png",
     "static/media/c2.jpg": "./static/media/c2.be4b3dd27e37ca81e4e3.jpg",
     "static/media/lk.png": "./static/media/lk.f7e41e7c3f93b1378df7.png",
     "static/media/worldofwarcraft.png": "./static/media/worldofwarcraft.c596bfaab8a36e2774cd.png",
@@ -60,9 +61,11 @@
     "static/media/ha.png": "./static/media/ha.16aaa7e095480861e7e9.png",
     "static/media/dg6.jpg": "./static/media/dg6.b455ce678eadb97ab9ae.jpg",
     "static/media/blizz.png": "./static/media/blizz.46176c36f98b505fa75d.png",
+    "static/media/draenei.png": "./static/media/draenei.6db960e4fdcc423029f0.png",
     "static/media/borda.png": "./static/media/borda.ff8a9d803b7ee97993a8.png",
     "static/media/dg2.jpg": "./static/media/dg2.c5958aefd5179529132f.jpg",
     "static/media/undead.png": "./static/media/undead.bc02179430377413df9d.png",
+    "static/media/dwarf.png": "./static/media/dwarf.b4b8766f524996015acf.png",
     "static/media/troll.png": "./static/media/troll.7d64b0fc8417dcf7f659.png",
     "static/media/orc.png": "./static/media/orc.37d41246d831f93946d5.png",
     "static/media/human.png": "./static/media/human.6797d1c237c02512040e.png",
@@ -71,11 +74,11 @@
     "static/media/raidruby.jpg": "./static/media/raidruby.4ac6989b1cd8cb75d559.jpg",
     "static/media/nightelf.png": "./static/media/nightelf.9faabb26c7dda5ba5d21.png",
     "index.html": "./index.html",
-    "main.e67d126c.css.map": "./static/css/main.e67d126c.css.map",
-    "main.914db1cd.js.map": "./static/js/main.914db1cd.js.map"
+    "main.5df607fa.css.map": "./static/css/main.5df607fa.css.map",
+    "main.42a5d0db.js.map": "./static/js/main.42a5d0db.js.map"
   },
   "entrypoints": [
-    "static/css/main.e67d126c.css",
-    "static/js/main.914db1cd.js"
+    "static/css/main.5df607fa.css",
+    "static/js/main.42a5d0db.js"
   ]
 }
